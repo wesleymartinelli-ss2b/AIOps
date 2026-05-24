@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+.venv/
+venv/
+
+# Tests (not needed in production image)
+tests/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Secrets and local env
+.env
+.env.*
+*.pem
+*.key
+
+# Git and IDE
+.git/
+.gitignore
+.dockerignore
+Dockerfile*
+README.md
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,2 +1,0 @@
-# AIOps
-Repositório Pós AIOps
