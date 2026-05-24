@@ -44,11 +44,6 @@ Cada pasta `qNN-*` contém:
 
 Na Q08, `justificativa.md` inclui comparação com ≥2 frameworks alternativos.
 
-## Referência de estudo
-
-- [1. engenharia de prompt.md](../1.%20engenharia%20de%20prompt.md) — Anatomia e Frameworks
-- [2. tecnicas de prompt.md](../2.%20tecnicas%20de%20prompt.md) — Técnicas de prompt
-
 ## Status
 
 **Desafio completo — 8/8 questões entregues.**
